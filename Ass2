@@ -1,0 +1,15 @@
+i=int(input('enter i value'))
+j=int(input('enter j value'))
+print("both are equal") if i==j else print("not equal")
+print("not equal") if i!=j else print("both are equal")
+print('i is grater') if i>j else print('j is greater')
+print('i is smaller') if i<j else print('j is smaller')
+
+
+
+enter i value5
+enter j value7
+not equal
+not equal
+j is greater
+i is smaller
